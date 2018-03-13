@@ -14,9 +14,7 @@ import ChartControl from '../bundles/momentDashboards/components/ChartControl';
 
 import Logo from '../bundles/shared/components/Logo';
 import Input from '../bundles/shared/components/Input';
-<<<<<<< HEAD
 import SideNav from '../bundles/shared/components/SideNav';
-=======
 import Textarea from '../bundles/shared/components/Textarea';
 import DropdownGhost from '../bundles/shared/components/Dropdown/DropdownGhost';
 import DropdownGhostSmall from '../bundles/shared/components/Dropdown/DropdownGhostSmall';
@@ -37,7 +35,6 @@ storiesOf('Tags', module)
   .add('Tag', withInfo({})(() =>
     <Tag normal label={'Self-Injury'} />,
   ));
->>>>>>> 2cfcae3da22ed50a050d220ee5b1791439f36895
 
 storiesOf('Logo', module)
   .add('Small', withInfo({})(() =>
@@ -91,12 +88,10 @@ storiesOf('Input', module)
     <Input dark large label="Hello" placeholder="Placeholder" />,
   ));
 
-<<<<<<< HEAD
     storiesOf('SideNav', module)
     .add('SideNav-with-dropdown', () => (
       <SideNav></SideNav>
     ));
-=======
 class I18nWrapper extends React.Component {
   constructor(props) {
     super(props);
@@ -164,4 +159,3 @@ storiesOf('Footer', module)
   .add('View', withInfo({})(() =>
     <Footer />,
   ));
->>>>>>> 2cfcae3da22ed50a050d220ee5b1791439f36895
