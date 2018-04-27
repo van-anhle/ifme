@@ -11,7 +11,7 @@ vi:
  click_here: "nhấn vào đây"
  less: " [Ít hơn]"
  language: 'Ngôn ngữ'
- back_to_top: Về ại đầu trang
+ back_to_top: Về lại đầu trang
 
  languages:
    en: English
@@ -101,7 +101,7 @@ vi:
     outgoing: 'Yêu cầu gửi ra bên ngoài'
     incoming: 'Yêu cầu được gửi đến'
     invite: 'Mời bạn bè của bạn tham gia!'
-    none: 'Hiện thời bạn không có đồng minh nào, bạn có thể tìm kiến và mời bạn bè mình tham gia!'
+    none: 'Hiện thời bạn không có đồng minh nào, bạn có thể tìm kiếm và mời bạn bè mình tham gia!'
     view_all_allies: 'Xem tất cả đồng minh'
     cancel: 'Hủy'
   form:
@@ -282,8 +282,8 @@ vi:
   new: 'Tâm trạng mới'
   example_moods: 'Lo lắng, Hoang mang, Hy vọng'
   label:
-   one: 'Âm trạng:'
-   other: 'Âm trạng:'
+   one: 'Tâm trạng:'
+   other: 'Tâm trạng:'
   index:
    subtitle: 'Tạo một thẻ miêu tả tâm trạng, cảm giác và cảm xúc của bạn.'
    premade1_name: 'Chấp nhận'
@@ -293,7 +293,7 @@ vi:
    premade3_name: 'Hiếu kỳ '
    premade3_description: 'Cảm thấy tò mò và không chắc chắn'
    premade4_name: 'Tức giận'
-   premade4_description: 'Cảm giác không chấp nhận một sự thật nào đó, cảm giác tức giận, muốn bào thù, và hoặc ganh tỵ'
+   premade4_description: 'Cảm giác không chấp nhận một sự thật nào đó, cảm giác tức giận, muốn báo thù, và hoặc ganh tỵ'
    premade5_name: 'Thất vọng'
    premade5_description: 'Cảm giác buồn và vô vọng – không tìm thấy giải pháp'
    instructions: "Bạn chưa tạo bất kỳ tâm trạng tùy chỉnh nào được nêu ra. Nhấp vào% {icon} để thêm một số!<br>Bạn cũng có thể thêm các giai điệu trước và tùy chỉnh thời gian khác."
@@ -359,25 +359,25 @@ vi:
     main_message_one: "%{app_name} là một cộng đồng của sức khỏe tâm thần trong đó khuyến khích người dùng chia sẻ những câu chuyện cá nhân của họ với những đồng minh thân tín."
     message_text_one: "Những đồng minh hay bạn bè thân tín là những người có liên hệ trong cuộc sống hàng ngày bao gốm bạn bè, thành viên gia đình, đồng nghiệp, giáo viên và những nhân viên chăm sóc sức khỏe tâm thần."
     main_message_two: "Giải quyết cá vấn đề về sức khỏe tâm thần làm nên con người chúng ta. Nhưng nhiều người trong chúng ta đắn đo khi mở lòng để chia sẻ những điều đó."
-    message_text_two: "Không phải ai cũng là nhà tư vấn hay trị liệu. Những người có liên hệ với cuộc sống chúng ta mỗi ngày chinh la những người làm nên cảm xúc và cách cư xử của chúng ta. Mời gọi họ tham gia vào các phương pháp trị liệu sức khỏe tâm thần sẽ là chìa khóa giúp ta hồi phục.<p><div class=\"subtitle block\">\"Không phải chỉ là trong đầu của bạn không thôi, mà là tất cả những gì xung quanh bạn. Chúng ta cùng nhau chửa lành cho nhau.\"</div><div class=\"spacer\"></div><div class=\"purple_yay\">&hearts;</div></p><p class=\"no_margin_bottom\">Sức khỏe tâm thần là những kinh nghiệm của từng các nhân và riêng việt. không có hai cái não giống nhau, giải quyết cá vấn đề đòi hỏi từ tất cả mọi người và đó là lý do tại sao dự án có mã nguồn mở.</p>"
+    message_text_two: "Không phải ai cũng là nhà tư vấn hay nhà trị liệu. Những người có liên hệ với cuộc sống chúng ta mỗi ngày chính la những người làm nên cảm xúc và cách cư xử của chúng ta. Mời gọi họ tham gia vào các phương pháp trị liệu sức khỏe tâm thần sẽ là chìa khóa giúp ta hồi phục.<p><div class=\"subtitle block\">\"Không phải chỉ có những điều trong đầu của bạn không thôi, mà là tất cả những gì xung quanh bạn. Chúng ta cùng nhau chửa lành cho nhau.\"</div><div class=\"spacer\"></div><div class=\"purple_yay\">&hearts;</div></p><p class=\"no_margin_bottom\">Sức khỏe tâm thần là những kinh nghiệm của từng các nhân và riêng việt. Không có hai cái não giống nhau, giải quyết cá vấn đề đòi hỏi sự đóng góp từ tất cả mọi người và đó là lý do tại sao dự án có mã nguồn mở.</p>"
     main_message_three: "Mong muốn ủng hộ chúng tôi?"
-    message_text_three: "Ứng dụng của chúng tôi là một dự án mã nguồn mở <u>hoàn toàn </u>. Nó được xây dựng và duy trì bởi các tình nguyện viên có nhiều nền tảng và kỹ năng khác nhau.</p><p>Vào năm 2016, chúng tôi đã nhận được khoản trợ cấp cộng đồng từ %{linebreak_link}. Năm 2017, chúng tôi nhận được tài trợ từ %{fund_club_link}.</p>Bạn có thể hỗ trợ chúng tôi bằng cách quyên góp cho %{patreon_link} của chúng tôi.</p>"
+    message_text_three: "Ứng dụng của chúng tôi là một dự án có mã nguồn mở <u>hoàn toàn </u>. Nó được xây dựng và duy trì bởi các tình nguyện viên có nhiều nền tảng và kỹ năng khác nhau.</p><p>Vào năm 2016, chúng tôi đã nhận được khoản trợ cấp cộng đồng từ %{linebreak_link}. Năm 2017, chúng tôi nhận được tài trợ từ %{fund_club_link}.</p>Bạn có thể hỗ trợ chúng tôi bằng cách quyên góp cho %{patreon_link} của chúng tôi.</p>"
     linebreak: 'Linebreak'
     fund_club: 'Fund Club'
   blog:
-    description: "Nếu bạn quan tâm đến việc viết thư cho chúng tôi, hãy cho chúng tôi biết về %{email}! Chúng tôi hoan nghênh quá trình gửi nặc danh."
+    description: "Nếu bạn quan tâm đến việc viết thư cho chúng tôi, hãy cho chúng tôi biết về %{email}! Chúng tôi hoan nghênh hình thức gửi ẩn danh."
   contribute:
     main_message_one: "if me được xây dựng và duy trì bởi nhiều tình nguyện viên khác nhau với kiến thức và kinh nghiệm khác nhau."
-    message_text_one: "Chúng tôi tìm kiếm những ý tưởng từ tất cả mọi người, bao gồm: <strong>các nhà tư vấn tâm lý</strong>, <strong>chuyên gia sức khỏe</strong>, <strong>nhà phát triển phần mềm</strong>, <strong>biên dịch</strong>, and <strong>những nhà thiết kế chuyên nghiệp. </strong>!<p class=\"no_margin_bottom\">Vui lòng %{email_link} và chúng tôi sẽ kết nối với bạn! Bạn sẽ được mời tham gia trang %{slack_link}, công cụ truyền thông chính của chúng tôi. Hãy chắc chắn kiểm tra mã của chúng tôi trên %{github_link}!</p>"
+    message_text_one: "Chúng tôi tìm kiếm ý tưởng từ tất cả mọi người, bao gồm: <strong>các nhà tư vấn tâm lý</strong>, <strong>chuyên gia sức khỏe</strong>, <strong>nhà phát triển phần mềm</strong>, <strong>biên dịch</strong>, and <strong>những nhà thiết kế chuyên nghiệp. </strong>!<p class=\"no_margin_bottom\">Vui lòng %{email_link} và chúng tôi sẽ kết nối với bạn! Bạn sẽ được mời tham gia trang %{slack_link}, công cụ truyền thông chính của chúng tôi. Hãy chắc chắn kiểm tra mã của chúng tôi trên %{github_link}!</p>"
     more_contributors: 'Những nhà đóng góp khác!'
     thanks: 'Một lời cảm ơn nồng nhiệt đến'
     slack: 'Slack'
   faq:
     title: 'Những câu hỏi thường được hỏi'
     data_access_question: 'Ai truy nhập vào dữ liệu của chúng tôi?'
-    data_access_answer: 'Dữ liệu sẽ không bị cung cấp hay xâm nhập bởi một bên thứ ba nào khác. Xóa bỏ tài khoản của bạn sẽ có nghĩa là xóa bỏ luôn những dữ liệu trong tài khoản đó.<br><br>Xóa bỏ tài khoản của bạn sẽ có nghĩa là xóa bỏ luôn những dữ liệu trong tài khoản đó.'
+    data_access_answer: 'Dữ liệu sẽ không bị xâm nhập hoặc cung cấp cho một bên thứ ba nào khác. Xóa bỏ tài khoản của bạn có nghĩa là xóa bỏ luôn những dữ liệu trong tài khoản đó.<br><br>Xóa bỏ tài khoản của bạn sẽ có nghĩa là xóa bỏ luôn những dữ liệu trong tài khoản đó.'
     moment_question: 'Khoản khắc là gì?'
-    moment_answer: '<strong>Khoản khắc</strong> là sự kiện hay tình huống đã làm ảnh hưởng đến sức khỏe tâm thần của bạn. Nó có thể là tích cực hoặc tiêu cực. Nghĩ về nó như nhật ký tham gia hay một trạng thái được đăng tải.<br><br>Bạn có thể gắn nhãn cho những ghi chép đó bằng từ khóa với chiến lược, danh mục, và tâm trạng. Bạn cho thể chọn đồng minh có thể xem và bình luận. Bạn cũng có thể lưu giữ những ghi chép đó cho một mình bạn.'
+    moment_answer: '<strong>Khoản khắc</strong> là sự kiện hay tình huống đã làm ảnh hưởng đến sức khỏe tâm thần của bạn. Nó có thể là tích cực hoặc tiêu cực. Nghĩ về nó như nhật ký tham gia hay một trạng thái được đăng tải.<br><br>Bạn có thể gắn nhãn cho những ghi chép đó bằng từ khóa với chiến lược, danh mục, và tâm trạng. Bạn cho thể chọn đồng minh có thể xem và bình luận. Bạn cũng có thể lưu giữ những ghi chép đó chỉ cho riêng bạn.'
     strategy_question: 'Chiến lược là gì?'
     strategy_answer: '<strong>Chiến lược</strong> là một hoạt động, dòng suy nghĩ, một hình thức tự chăm sóc giúp đỡ bạn đối mặt với vấn đề hoặc giúp đỡ bạn hồi phục.<br><br>Bạn có thể gắn nhãn những ghi chép đó trong danh mục. Bạn có thể chọn những đồng minh có thể xem và bình luận, hoặc bạn có thể lưu giữ những ghi chép đó cho riêng bạn. Chia sẻ những chiến lược đến những đồng minh đã được chọn lọc, có nghĩa là bạn có thể gắn nhãn những khoản khắc này với thẻ chiến lược!'
     category_question: 'Danh mục là gì?'
@@ -398,19 +398,19 @@ vi:
     not_signed_in:
       main_message_one: 'Một cuộc trao đổi tích cực với những người bạn yêu mến sẽ giúp cho bạn có một sức khỏe tâm thần tốt hơn.'
       message_text_one: "Chúng ta cần nhau có nhau để phá bỏ đi những triệu chứng hay mầm bệnh này."
-      message_one: 'Chia sẻ câu chuyện của bạn với những người yêu mến và nhận những hỗ trợ ma bạn xứng đáng được nhận'
-      message_two: 'Cùng với việc hệ thống và chính sách bảo mật thông tin cá nhân, hãy là chính mình, không có ràng buộc nào cả'
+      message_one: 'Chia sẻ câu chuyện của bạn với những người yêu mến và nhận những hỗ trợ mà bạn xứng đáng được nhận'
+      message_two: 'Cùng với hệ thống và chính sách bảo mật thông tin cá nhân, hãy là chính mình, không có ràng buộc nào cả'
       message_three: 'Ghi chép lại tâm trạng, thuốc, và tự chăm sóc bản thân của bạn'
       main_message_two: "Thuật lại chuyện sẽ là chìa khóa cho việc giáo dục sức khỏe tâm thần."
       message_text_two: "Học hỏi từ <strong>cộng đồng</strong> trong %{blog} của chúng tôi."
-      main_message_three: 'Chúng tôi là một mã nguồn mở bởi vì sức khỏe tâm thần cần được chia sẻ rộng rãi.'
+      main_message_three: 'Chúng tôi là một dự án có mã nguồn mở bởi vì đối với chúng tôi sức khỏe tâm thần cần được chia sẻ rộng rãi.'
       message_text_three: "Chúng tôi <strong>luôn</strong> tìm kiếm %{help} và %{feedback}!"
       help: 'cứu giúp'
     signed_in_empty:
       main_message_one: 'Xin chào %{name}!'
       message_text_one: "Bạn có thể bắt đầu chia sẻ câu chuyện của mình."
       main_message_two: 'Hãy cho chúng tôi biết về bạn.'
-      cell_one: 'Tùy chỉnh %{profile} của bạn - thêm hình ảnh tiểu sử và sinh học - Thêm tùy chỉnh %{moods} để mô tả tốt nhất cảm xúc của bạn<brThêm %{allies} - bạn bè, gia đình và những người khác mà bạn muốn chia sẻ với'
+      cell_one: 'Tùy chỉnh %{profile} của bạn - thêm hình ảnh tiểu sử và lý lịch - Thêm tùy chỉnh %{moods} để mô tả tốt nhất cảm xúc của bạn<brThêm %{allies} - bạn bè, gia đình và những người khác mà bạn muốn chia sẻ với'
       main_message_three: 'Viết câu chuyện của bạn.'
       cell_two: 'Tạo %{categories} tùy chỉnh để giúp sắp xếp khoảnh khắc của bạn.<br>Viết về %{moments} - các sự kiện và tình huống ảnh hưởng đến sức khoẻ tinh thần của bạn.'
       main_message_four: 'Hãy chăm sóc bản thân của bạn.'
@@ -419,7 +419,7 @@ vi:
       message_text_three: 'Hãy kiểm tra trang %{faq} của chúng tôi hoặc % {email_link}!'
       strategize: 'Chiến thuật'
   partners:
-    description: 'Có rất nhiều tổ chức thực sự tuyệt vời mà chúng tôi đã được truyền cảm hứng và vinh dự làm việc. Chúng tôi rất muốn làm việc với tổ chức của bạn, gửi email cho chúng tôi theo địa chỉ %{email}.'
+    description: 'Có rất nhiều tổ chức thực sự tuyệt vời mà chúng tôi đã được truyền cảm hứng và vinh dự làm việc . Chúng tôi rất muốn làm việc với tổ chức của bạn, gửi email cho chúng tôi theo địa chỉ %{email}.'
   privacy:
     summary: 'Tóm tắt'
     summary_description: '<p>Chính sách bảo mật này dành cho trang web này và chi phối sự riêng tư của những người sử dụng nó.</p><p>Với nội dung nhạy cảm của trang web, sự riêng tư là mối quan tâm vô cùng quan trọng đối với chúng tôi. Chính sách đề ra cách phác thảo cách thu thập dữ liệu người dùng, cách sử dụng và cách thức bảo vệ nó.</p>'
@@ -442,7 +442,7 @@ vi:
       women_of_colour: phụ nữ da màu
       black_women: phụ nữ da đen
       domestic_violence: bạo hành gia đình
-      dating_violence: bạo hành cặp bồ
+      dating_violence: bạo hành trong quan hệ Nam - Nữ 
       cyberbullying: máy tính
       therapy: trị liệu
       counseling: tư vấn
@@ -626,9 +626,9 @@ vi:
       link_instructions: "Bạn có thể xác nhận tài khoản của bạn thông qua liên kết bên dưới"
       link_text: "Xác nhận tài khoản"
     reset_password:
-      link_instructions: "Có người đã yêu cầu gửi đường dẫn thay đổi mật khẩu của bạn. Bạn có thể thực hiên thông qua liên kết bên dưới."
+      link_instructions: "Có người đã yêu cầu gửi đường dẫn thay đổi mật khẩu của bạn. Bạn có thể thực hiện thông qua liên kết bên dưới."
       ignore: "Nếu bạn không yêu cầu, vui lòng bỏ qua email này."
-      info: "Mật khẩu của bạn sẽ không thay đổi cho đến khi bạn truy nhập vào liện kết trên và từ đó tạo một mật khẩu mới."
+      info: "Mật khẩu của bạn sẽ không thay đổi cho đến khi bạn truy nhập vào liên kết trên và từ đó tạo một mật khẩu mới."
     unlock:
       info: "Tài khoản của bạn đã bị khóa vì đã đăng nhập nhiều lần không thành công."
       link_instructions: "Nhấn vào đường dẫn bên dưới để mở khóa tài khoản của bạn"
@@ -646,7 +646,7 @@ vi:
     group_notify_text: "Cập nhật nhóm"
     meeting_notify_text: "Cập nhật họp nhóm"
     google_auth1: "Nếu bạn không muốn xác minh tài khoản thông qua Google, xin vui lòng đăng nhập bằng một email và mật khẩu mới."
-    google_auth2: "Bởi vì bạn xác minh tài khoản thông quan Google, bạn không cần phải điền mật khẩu.<br>Nếu bạn muốn thay đổi xin vui lòng đăng nhập bằng một email và mật khẩu mới."
+    google_auth2: "Bởi vì bạn xác minh tài khoản thông qua Google, bạn không cần phải điền mật khẩu.<br>Nếu bạn muốn thay đổi xin vui lòng đăng nhập bằng một email và mật khẩu mới."
     placeholders:
       repeat_password: "Lập lại mật khẩu lần nữa"
     edit:
@@ -657,12 +657,12 @@ vi:
         update: "Cập nhật"
       placeholders:
         optional: "Chọn lựa"
-        about: "Giới thiệu chính bạn và tại sao bạn lại ở đây bạn mong đợi sẽ đạt đươc điều gì, xin vui lòng lưu ý điều này sẽ xuất hiện khi người dùng tìm kiếm bạn"
+        about: "Giới thiệu chính bạn và tại sao bạn lại ở đây, bạn mong đợi sẽ đạt được điều gì, xin vui lòng lưu ý những thông tin này sẽ xuất hiện khi người dùng tìm kiếm bạn"
         required: "Yêu cầu"
       delete:
         text: "Đây có phải là trang <strong>if me</strong> không giúp bạn?"
         button: "Xóa tài khoản của tôi vĩnh viễn"
-        confirm: "Bạn có chắc chắn không? Bạn sẽ mất tất cả dữ liệu của bạn, tuy nhiên bạn có thể đăng ký bất cứ lúc nào!"
+        confirm: "Bạn có chắc chắn không? Bạn sẽ mất tất cả dữ liệu, tuy nhiên bạn có thể đăng ký lại bất cứ lúc nào!"
     new:
       subtitle: "Bắt đầu chia sẻ câu chuyện của bạn, và duy trì sức khỏe của bạn một nơi an toàn và riêng tư"
       label: "Một vài chi tiết"
@@ -672,6 +672,6 @@ vi:
     sign_in_google: 'Đăng nhập với Google'
     sign_up_google: 'Đăng ký với Google'
     confirmation: "Không nhận được hướng dẫn xác nhận?"
-    unlock: "Không nhận được hứng dẫn mở khóa?"
+    unlock: "Không nhận được hướng dẫn mở khóa?"
   unlock:
     resend: 'Gửi lại hướng dẫn mở khóa'
